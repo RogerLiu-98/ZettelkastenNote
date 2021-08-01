@@ -1,0 +1,2 @@
+# ZettelkastenNote
+Notes when coding
